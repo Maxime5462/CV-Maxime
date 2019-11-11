@@ -20,10 +20,10 @@ section
 {
     padding: 45px 0 80px 0;
 }
-section .heading 
+section .heading
 {
     text-align: center;
-    padding-bottom: 40px;        
+    padding-bottom: 40px;
 }
 section .heading h2
 {
@@ -33,7 +33,7 @@ section .heading h2
 {
     width:100px;
     height: 2px;
-    background: blue;
+    background: #235390;
     margin: 0 auto;
 }
 .white-divider
@@ -47,7 +47,7 @@ section .heading h2
 /* MENU */
 .navbar
 {
-    background: blue;
+    background: #235390;
     font-size: 12px;
     letter-spacing: 4px;
     text-transform: uppercase;
@@ -69,7 +69,7 @@ section .heading h2
 }
 .navbar-nav li a:hover, .navbar-nav li.active a
 {
-    color: blue !important;
+    color: #235390 !important;
     background-color: #fff !important;
 }
 .navbar-default .navbar-toggle
@@ -89,7 +89,7 @@ section .heading h2
 #about
 {
     padding-top: 100px;
-    background: blue;
+    background: #235390;
 }
 .profile-picture
 {
@@ -132,7 +132,7 @@ section .heading h2
 }
 #skills .heading h2
 {
-    color: blue;
+    color: #235390;
 }
 #skills .progress
 {
@@ -142,7 +142,7 @@ section .heading h2
 }
 #skills .progress-bar
 {
-    background: blue;
+    background: #235390;
 }
 #skills .progress h5
 {
@@ -152,7 +152,7 @@ section .heading h2
 /* EXPERIENCE */
 #experience
 {
-    background: blue;
+    background: #235390;
 }
 #experience .heading h2
 {
@@ -190,7 +190,7 @@ section .heading h2
 }
 .timeline li .timeline-badge
 {
-    color: blue;
+    color: #235390;
     width: 50px;
     line-height: 50px;
     font-size: 20px;
@@ -256,7 +256,7 @@ section .heading h2
 }
 .timeline-heading h4
 {
-     color: blue;
+     color: #235390;
 }
 
 /* EDUCATION */
@@ -266,7 +266,7 @@ section .heading h2
 }
 #education .heading h2
 {
-    color: blue;
+    color: #235390;
 }
 .education-block
 {
@@ -292,7 +292,7 @@ section .heading h2
 }
 .education-block h3
 {
-     color: blue;
+     color: #235390;
 }
 .education-block h4
 {
@@ -302,15 +302,15 @@ section .heading h2
 {
   font-weight: bold;
 }
-.education-block .red-divider
+.education-block .blue-divider
 {
     margin-bottom: 20px;
 }
-    
+
 /* PORTFOLIO */
 #portfolio
 {
-    background: blue;
+    background: #235390;
 }
 #portfolio .heading h2
 {
@@ -321,12 +321,12 @@ section .heading h2
     width: 100%;
     height: 100%;
     filter: grayscale(100%);
-    -webkit-filter: grayscale(100%); 
+    -webkit-filter: grayscale(100%);
 }
 #portfolio .thumbnail img:hover
 {
      filter: none;
-    -webkit-filter: none; 
+    -webkit-filter: none;
 }
 
 
@@ -341,7 +341,7 @@ footer .glyphicon
 {
     font-size:  25px;
     margin: 20px;
-    color: blue;
+    color: #235390;
     height: 30px;
 }
 footer .glyphicon:hover
@@ -353,34 +353,3 @@ footer h5
     color: #fff;
     font-weight: normal;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
